@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vahida</h1>
-<h3 align="center">AI Enthusiast</h3>
+<h3 align="center">Hi there! I'm Vahida Mohammad — a passionate final-year Computer Science student with a growing interest in Machine Learning, Artificial Intelligence, and Software Development.</h3>
 
 - 🔭 I’m currently working on **AI-Powered Mental Health Support Chatbot**
 
-- 🌱 I’m currently learning **Advanced Machine Learning (NLP. Model Tuning, Deployement),Backend frameworks like Spring Boot and Express.js**
+- 🌱 I’m currently learning **Advanced Machine Learning (NLP, Model Tuning, Deployement),Backend frameworks like Spring Boot and Express.js**
 
 - 👯 I’m looking to collaborate on **Open Source Projects or research work related to AI and ML**
 
